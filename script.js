@@ -20,8 +20,9 @@ const projects = [
         title: "Platformer Adventure",
         description: "In this project, I focused on tilemaps and gravity physics. I added a custom character sprite and a multi-level design.",
         imagePath: "images/platformer_screenshot.png", // NOTE: This image file must be in an 'images' folder!
-        link: "john.html"
+        link: "https://scratch.mit.edu/projects/925163667"
     },
+    
 
     // ----------------------------------------------------
     // PROJECT 3: **ADD YOUR NEW PROJECT HERE**
